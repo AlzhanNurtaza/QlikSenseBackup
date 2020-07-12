@@ -117,6 +117,10 @@ namespace QSBackupApp
                     DeleteOldBackups();
 
                 }
+                else
+                {
+
+                }
             }
             catch(Exception e)
             {
